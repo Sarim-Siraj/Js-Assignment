@@ -5,7 +5,7 @@
 // alert("Welcome to JS Land...\nHappy Coding!")
 
 // Qusetion 3
-alert("Welcome to JS Land..")
+// alert("Welcome to JS Land..")
 
 // Question 5
-alert("Hello...I can run JS through my web browser console")
+// alert("Hello...I can run JS through my web browser console")
