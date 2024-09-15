@@ -37,4 +37,4 @@
 // document.write("<h1>Yah! I Can Write HTML Content in javaScript</h1>")
 
 // Question 9
-alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
+// alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
